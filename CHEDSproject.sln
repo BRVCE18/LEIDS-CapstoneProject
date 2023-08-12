@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CHEDSproject", "CHEDSproject.vbproj", "{31E9140B-39B2-42B7-BA17-E44F56B2747C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E9140B-39B2-42B7-BA17-E44F56B2747C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E9140B-39B2-42B7-BA17-E44F56B2747C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E9140B-39B2-42B7-BA17-E44F56B2747C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E9140B-39B2-42B7-BA17-E44F56B2747C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7887E421-8ACA-48C5-BAD4-D9F06BD6E7FE}
+	EndGlobalSection
+EndGlobal
