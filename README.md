@@ -1,1 +1,1 @@
-# LEIDS-CapstoneProject
+# Capstone Project: LEIDS (Localized Early-Immuninzation Database System)
